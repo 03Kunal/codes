@@ -1,0 +1,28 @@
+.lable {
+    margin-bottom: 3px;
+    font-weight: 700;
+    color: #01020a;
+}
+
+.custom-container {
+	max-width: 500px;
+	margin: 10px auto;
+	padding: 20px;
+}
+
+.pass-wrapper {
+	position: relative;
+	display: flex;
+	/* margin-bottom: 14px; */
+  }
+
+  .visible {
+    position: absolute;
+    top: 29%;
+    right: 10%;
+  }
+  .warn{
+    color: red;
+    line-height: normal;
+    padding-bottom: 8px;
+  }
